@@ -13,6 +13,7 @@
         <module>spring-annotation-02</module>
         <module>spring-annotation-03-scope</module>
         <module>spring-annotation-04-LazyBean</module>
+        <module>spring-annotation-05-conditional</module>
     </modules>
     <dependencies>
         <dependency>
