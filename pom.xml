@@ -12,6 +12,7 @@
         <module>spring-annotation-01</module>
         <module>spring-annotation-02</module>
         <module>spring-annotation-03-scope</module>
+        <module>spring-annotation-04-LazyBean</module>
     </modules>
     <dependencies>
         <dependency>
