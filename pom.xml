@@ -18,6 +18,7 @@
         <module>spring-annotation-07-factorybean</module>
         <module>spring-annotation-08-lifecycle-1-initdestroy</module>
         <module>spring-annotation-08-lifecycle-2-initdestroy</module>
+        <module>spring-annotation-08-lifecycle-3-initdestroy</module>
     </modules>
     <dependencies>
         <dependency>
