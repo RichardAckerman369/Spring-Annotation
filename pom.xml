@@ -15,6 +15,7 @@
         <module>spring-annotation-04-LazyBean</module>
         <module>spring-annotation-05-conditional</module>
         <module>spring-annotation-06-import</module>
+        <module>spring-annotation-07-factorybean</module>
     </modules>
     <dependencies>
         <dependency>
