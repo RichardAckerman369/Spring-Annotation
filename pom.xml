@@ -20,6 +20,7 @@
         <module>spring-annotation-08-lifecycle-2-initdestroy</module>
         <module>spring-annotation-08-lifecycle-3-initdestroy</module>
         <module>spring-annotation-08-lifecycle-4-initdestroy</module>
+        <module>spring-annotation-09-value</module>
     </modules>
     <dependencies>
         <dependency>
