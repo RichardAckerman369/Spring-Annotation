@@ -22,6 +22,7 @@
         <module>spring-annotation-08-lifecycle-4-initdestroy</module>
         <module>spring-annotation-09-value</module>
         <module>spring-annotation-10-propertysource</module>
+        <module>spring-annotation-11-autowired</module>
     </modules>
     <dependencies>
         <dependency>
