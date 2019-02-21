@@ -12,6 +12,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-annotation-11-autowired-1</module>
+        <module>spring-annotation-11-autowired-2-resource</module>
     </modules>
 
     <dependencies>
